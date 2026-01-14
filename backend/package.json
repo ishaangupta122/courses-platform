@@ -10,7 +10,7 @@
     "mongoose": "^8.6.1",
     "razorpay": "^2.9.4"
   },
-  "name": "com.web.katil",
+  "name": "courses-backend",
   "version": "1.0.0",
   "main": "app.js",
   "scripts": {
